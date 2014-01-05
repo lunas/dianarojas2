@@ -1,0 +1,6 @@
+_site
+.idea
+.vagrant
+src/.bundle
+.DS_Store
+
