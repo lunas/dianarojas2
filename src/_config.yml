@@ -1,5 +1,5 @@
 source: .
 destination: ../_site
 exclude: [less, font, coffee, Gemfile, Gemfile.lock]
-encoding: UTF-8
+encoding: 'UTF-8'
 
