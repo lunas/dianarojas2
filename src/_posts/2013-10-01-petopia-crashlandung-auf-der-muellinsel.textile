@@ -1,17 +1,20 @@
 ---
 layout: default
-title: "Petopia - Crashlandung auf der Müllinsel"
+title: Petopia - Crashlandung auf der Müllinsel
+tags: ['news']
 excerpt: Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
 
-         *Premiere:*
-         am Mi, 23.Okt. um 17 Uhr
-         Theater Stadelhofen Zürich
+         Wieder gespielt ab dem 17. Februar 2014
+         in verschiedenen Spielorten in der Schweiz!
+
+         "Spieldaten":http://www.mandarina.ch/daten.html
 ---
 
 h1. {{ page.title }}
 
 Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
 
-*Premiere:*
-am Mi, 23.Okt. um 17 Uhr
-Theater Stadelhofen Zürich
+Wieder gespielt ab dem 17. Februar 2014
+in verschiedenen Spielorten in der Schweiz!
+
+"Spieldaten":http://www.mandarina.ch/daten.html

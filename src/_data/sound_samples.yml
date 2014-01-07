@@ -1,0 +1,26 @@
+- label: Willkommen -- Buenvenidos
+  file: dr_00_new.mp3
+
+- label: Spanisch -- Kindergeschichte
+  file: dr_02_1.mp3
+
+- label: Spanisch -- Kunsttheorie
+  file: dr_03_2.mp3
+
+- label: Spanisch -- Lehrmittel
+  file: dr_06_new.mp3
+
+- label: Spanisch -- Telefonansage
+  file: dr_08_new.mp3
+
+- label: Spanisch -- VPS Werbung
+  file: diana_rojas_vps_demo.mp3
+
+- label: Deutsch -- Werbung
+  file: dr_01.mp3
+
+- label: Deutsch -- Kindergeschichte
+  file: dr_04_new.mp3
+
+- label: CH-Deutsch -- Neutral
+  file: dr_05_new.mp3

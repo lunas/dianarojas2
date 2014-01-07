@@ -1,0 +1,25 @@
+---
+layout: default
+tags: ['news']
+title: 0%
+excerpt: >
+         ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
+
+         *Premiere:*
+         am 20. März um 20 Uhr im Clubraum der Roten Fabrik
+
+         Konzept und Regie: Diana Rojas,
+         Musik: Michael Sauter,
+         Mentalcouching: Michael Stauffer
+---
+
+h1. {{ page.title }}
+
+ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
+
+*Premiere:*
+am 20. März um 20 Uhr im Clubraum der Roten Fabrik
+
+Konzept und Regie: Diana Rojas,
+Musik: Michael Sauter,
+Mentalcouching: Michael Stauffer

@@ -2,4 +2,5 @@ source: .
 destination: ../_site
 exclude: [less, font, coffee, Gemfile, Gemfile.lock]
 encoding: 'UTF-8'
-
+# baseurl: http://www.dianarojas.net/neu
+excerpt_separator: "###"

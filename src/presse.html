@@ -1,0 +1,15 @@
+---
+layout: default
+title: Presse
+---
+<div class="presse row">
+  <div class="left">
+    <ul class="list-group">
+      {% for article in site.tags.presse %}
+      <li class="list-group-item pressetext">
+        {{ article.excerpt | textilize }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

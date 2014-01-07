@@ -1,0 +1,24 @@
+---
+layout: default
+title: Vita
+---
+<div class="vita row">
+  <div class="left">
+    <div class="image"></div>
+  </div>
+  <div class="right">
+    <ul class="list-group">
+      {% for sample in site.data.sound_samples %}
+      <li class="list-group-item">
+        <label>{{ sample.label }}</label>
+        <span class="audio-player">play {{ sample.file }}</span>
+      </li>
+      {% endfor %}
+      <li class="list-group-item">
+        <a href="http://www.bodalgo.com/de/voices/diana-rojas/" target="_blank">
+          Mein Profil bei bodalgo
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>

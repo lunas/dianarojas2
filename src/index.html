@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diana Rojas -- Schauspielerin
+title: Schauspielerin
 ---
 <div id="home-background" class="home row">
   <div class="left"></div>
@@ -9,14 +9,16 @@ title: Diana Rojas -- Schauspielerin
     <div id="spieldaten" class="well well-sm">
       <a href="http://www.mandarina.ch/daten.html" target="_blank">Spieldaten</a>
     </div>
-    <div class="list-group">
-      {% for post in site.posts limit: 3 %}
-      <a href="{{ post.url }}" class="list-group-item">
-        <h4 class="list-group-item-heading">{{ post.title }}</h4>
-        <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
-      </a>
+    <ul class="list-group">
+      {% for post in site.tags.news limit: 2 %}
+        <li class="list-group-item">
+          <h4 class="list-group-item-heading">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h4>
+          <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
+        </li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
 </div>
 <div class="home row">

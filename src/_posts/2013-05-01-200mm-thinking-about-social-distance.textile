@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: ['news']
 title: 200mm (thinking about social d<del>ist</del>ance)
 excerpt: Ein Projekt von Diana Rojas und Martin Schick,
          in Koproduktion mit dem Konzeptbüro der Roten Fabrik Zürich und dem Theater Tuchlaube Aarau
