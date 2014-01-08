@@ -11,6 +11,28 @@ title: Vita
 </div>
 <div class="vita row">
   <div class="left">
-    vita
+    <div class="vita-nav">
+      <ul id="vita-nav" class="nav navbar navbar-static" role="navigation">
+        <li><a href="#eigenschaften">Eigenschaften</a></li>
+        <li><a href="#film">Film/Foto</a></li>
+        <li><a href="#theater">Theaterengagements</a></li>
+        <li><a href="#sprechen">Sprech-Engagements</a></li>
+        <li><a href="#perfomance">Perfomances & Kunstprojekte</a></li>
+      </ul>
+    </div>
+
+    <div data-spy="scroll" data-target="#vita-nav" data-offset="0" class="vita-content">
+      <div class="eigenschaften">
+        <h4 id="eigenschaften">Eigenschaften</h4>
+        <table>
+        {% for eig in site.data.vita_eigenschaften %}
+          <tr>
+            <td>{{ eig.label | textilize }}</td>
+            <td>{{ eig.value | textilize }}</td>
+          </tr>
+        {% endfor %}
+        </table>
+      </div>
+    </div>
   </div>
 </div>
