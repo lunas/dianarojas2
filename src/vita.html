@@ -14,6 +14,7 @@ title: Vita
     <div class="vita-nav">
       <ul id="vita-nav" class="nav navbar navbar-static" role="navigation">
         <li><a href="#eigenschaften">Eigenschaften</a></li>
+        <li><a href="#ausbildung">Ausbildung</a></li>
         <li><a href="#film">Film/Foto</a></li>
         <li><a href="#theater">Theaterengagements</a></li>
         <li><a href="#sprechen">Sprech-Engagements</a></li>
@@ -31,6 +32,60 @@ title: Vita
             <td>{{ eig.value | textilize }}</td>
           </tr>
         {% endfor %}
+        </table>
+      </div>
+
+      <div class="ausbildung">
+        <h4 id="ausbildung">Ausbildung</h4>
+        <table>
+        {% for school in site.data.vita_ausbildung %}
+          <tr>
+            <td>{{ school.year }} </td>
+            <td>{{ school.name }}, {{ school.school }}, {{ school.city }} </td>
+          </tr>
+        {% endfor %}
+        </table>
+      </div>
+
+      <div class="film">
+        <h4 id="film">Film/Foto</h4>
+        <table>
+          <tr>
+            <th>Jahr</th>
+            <th>Titel</th>
+            <th>Rolle</th>
+            <th>Regie/FotografIn</th>
+            <th>Firma</th>
+          </tr>
+        {% for film in site.data.vita_film %}
+          <tr>
+            <td>{{ film.year }}</td>
+            <td>{{ film.title }} ({{ film.type }})</td>
+            <td>{{ film.role }}</td>
+            <td>{{ film.director }}</td>
+            <td>{{ film.company }}, {{ film.city }}</td>
+          </tr>
+        {% endfor %}
+        </table>
+      </div>
+
+      <div class="theater">
+        <h4 id="theater">Theaterengagements</h4>
+        <table>
+          <tr>
+            <th>Jahr</th>
+            <th>Titel</th>
+            <th>Regie</th>
+            <th>Theater</th>
+          </tr>
+          {% for play in site.data.vita_theater %}
+            <tr>
+              <td>{{ play.year }}</td>
+              <td>{{ play.title }}</td>
+              <td>{{ play.director }}</td>
+              <td>{{ play.theatre }}</td>
+            </tr>
+          {% endfor %}
         </table>
       </div>
     </div>

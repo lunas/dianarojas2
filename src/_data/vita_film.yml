@@ -1,0 +1,87 @@
+- year: 2013
+  title: Das Leben B
+  type: Kino
+  role: Suzanna
+  director: Pablo Callisaya
+  company: PC
+  city: Luzern
+
+- year: 2013
+  title: Simone
+  type: Kurzfilm
+  role: Xenia
+  director: Rebecca Panian
+  company: ZHDK
+  city: Zürich
+
+- year: 2013
+  title: Zivil Courage
+  type: Video
+  role: Frau
+  director: Noemie Preiswerk
+  company: Ludic GmbH
+  city: ZH
+
+- year: 2013
+  title: Langeweile
+  type: dokumentarische und inszenierte Fotografie
+  role: Frau
+  director: Roland Iselin
+  company: RI
+  city: Zürich
+
+- year: 2012
+  title: Horizontes
+  type: Imagefilm
+  role: Juana Cruz
+  director: Jurie Steinhart
+  company: Lomotion AG
+  city: Bern
+
+- year: 2010
+  title: Sympany
+  type: Fotoshooting
+  role: Verkäuferin
+  director: Oliver Nanzig
+  company: Onfilm AG
+  city: Zürich
+
+- year: 2010
+  title: Cleva
+  type: Musik Video Clip
+  role: Tangotänzerin
+  director: Cosima Frei
+  company: ZHDK
+  city: Zürich
+
+- year: 2008
+  title: Die Gastlosen
+  type: Kurzfilm
+  role: Juana
+  director: Valeria Stücki
+  company: HEAD
+  city: Genf
+
+- year: 2007
+  title: Hunkeler macht Sachen
+  type: TV-Film
+  role: Angel
+  director: Markus Fischer
+  company: SF1—Ps Film GmbH
+  city: Zürich
+
+- year: 2007
+  title: Coffeeshop
+  type: Werbefilm
+  role: Verkäuferin
+  director: Daniel Levy
+  company: Condor Films
+  city: Zürich
+
+- year: 2000
+  title: Bogota mas cerca de las estrellas
+  type: Film
+  role: Maria
+  director: Miguel Ponce
+  company: Festival de cine de Bogotá
+  city: Bogotá
