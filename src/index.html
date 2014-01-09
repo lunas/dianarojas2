@@ -1,21 +1,23 @@
----
-layout: default
-title: Schauspielerin
----
-<div id="home-background" class="home row">
-  <div class="left">
-    <img src="{{ site.baseurl }}assets/images/luca_briciotti_dianarojas_portrait1.jpg"
-         class="page-main-image"/>
-  </div>
-  <div class="left">
-    <h3>Aktuell:</h3>
-    {% for post in site.tags.news limit: 2 %}
-      <div>
-        <h4 class="list-group-item-heading">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-        <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
+----
+----
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ site.baseurl }}css/styles.css" >
+  <script type="text/javascript" src="{{ site.baseurl }}js/bootstrap.js"></script>
+  <title>Diana Rojas - Schauspielerin</title>
+</head>
+<body>
+  <div id="front_image_wrapper">
+    <div class="container">
+      <div class="index row">
+        <h1><a href="home.html">Diana Rojas</a></h1>
       </div>
-    {% endfor %}
+    </div>
   </div>
-</div>
+  <div id="preload" class="index"></div>
+</body>
+</html>
