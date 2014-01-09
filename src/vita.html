@@ -55,7 +55,7 @@ title: Vita
             <th>Titel</th>
             <th>Rolle</th>
             <th>Regie/FotografIn</th>
-            <th>Firma</th>
+            <th>Produzent</th>
           </tr>
         {% for film in site.data.vita_film %}
           <tr>
@@ -85,6 +85,20 @@ title: Vita
               <td>{{ play.director }}</td>
               <td>{{ play.theatre }}</td>
             </tr>
+          {% endfor %}
+        </table>
+      </div>
+
+      <div class="sprechen">
+        <h4 id="sprechen">Engagements alss Sprecherin</h4>
+        <table>
+          {% for gagi in site.data.vita_sprechen %}
+          <tr>
+            <td>{{ gagi.year }}</td>
+            <td>{{ gagi.title }}</td>
+            <td>{{ gagi.type }}</td>
+            <td>{{ gagi.client}} {{ gagi.city }}</td>
+          </tr>
           {% endfor %}
         </table>
       </div>

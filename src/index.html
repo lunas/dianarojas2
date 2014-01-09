@@ -3,31 +3,19 @@ layout: default
 title: Schauspielerin
 ---
 <div id="home-background" class="home row">
-  <div class="left"></div>
-  <div id="news" class="right">
-    <h3>Aktuell:</h3>
-    <div id="spieldaten" class="well well-sm">
-      <a href="http://www.mandarina.ch/daten.html" target="_blank">Spieldaten</a>
-    </div>
-    <ul class="list-group">
-      {% for post in site.tags.news limit: 2 %}
-        <li class="list-group-item">
-          <h4 class="list-group-item-heading">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </h4>
-          <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
-        </li>
-      {% endfor %}
-    </ul>
+  <div class="left">
+    <img src="{{ site.baseurl }}assets/images/luca_briciotti_dianarojas_portrait1.jpg"
+         class="page-main-image"/>
   </div>
-</div>
-<div class="home row">
-  <div class="left"></div>
-  <div class="right">
-    <div id="contact">
-      <h3>Contact:</h3>
-      0041(0)78.865.79.19<br/>
-      info (at) dianarojas.net
-    </div>
+  <div class="left">
+    <h3>Aktuell:</h3>
+    {% for post in site.tags.news limit: 2 %}
+      <div>
+        <h4 class="list-group-item-heading">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
+      </div>
+    {% endfor %}
   </div>
 </div>

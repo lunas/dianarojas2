@@ -4,21 +4,20 @@ title: Audio
 ---
 <div class="audio row">
   <div class="left">
-    <div class="image"></div>
+    <img src="{{ site.baseurl }}assets/images/luca_briciotti_dianarojas_portrait5.jpg"
+         class="page-main-image"/>
   </div>
-  <div class="right">
-    <ul class="list-group">
-      {% for sample in site.data.sound_samples %}
-        <li class="list-group-item">
-          <label>{{ sample.label }}</label>
-          <span class="audio-player">play {{ sample.file }}</span>
-        </li>
-      {% endfor %}
-      <li class="list-group-item">
-        <a href="http://www.bodalgo.com/de/voices/diana-rojas/" target="_blank">
-          Mein Profil bei bodalgo
-        </a>
-      </li>
-    </ul>
+  <div class="left">
+    {% for sample in site.data.sound_samples %}
+      <div>
+        <label>{{ sample.label }}</label>
+        <span class="audio-player">play {{ sample.file }}</span>
+      </div>
+    {% endfor %}
+    <div>
+      <a href="http://www.bodalgo.com/de/voices/diana-rojas/" target="_blank">
+        Mein Profil bei bodalgo
+       </a>
+    </div>
   </div>
 </div>
