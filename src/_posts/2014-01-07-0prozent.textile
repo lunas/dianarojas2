@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 tags: ['news']
 title: 0%
 excerpt: >

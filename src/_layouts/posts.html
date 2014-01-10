@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ site.baseurl }}css/styles.css" >
+  <script type="text/javascript" src="{{ site.baseurl }}js/bootstrap.js"></script>
+  <title>Diana Rojas - {{ page.title }}</title>
+</head>
+<body>
+<div id="header" class="container">
+  {% include post_header.html %}
+</div>
+<div id="nav" class="container">
+  {% include nav.html %}
+</div>
+<div id="content" class="container">
+  {{ content }}
+</div>
+<div id="footer" class="container">
+  {% include footer.html %}
+</div>
+</body>
+</html>

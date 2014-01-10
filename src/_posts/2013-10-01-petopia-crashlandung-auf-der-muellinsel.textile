@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: Petopia - Crashlandung auf der Müllinsel
 tags: ['news']
 excerpt: Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
