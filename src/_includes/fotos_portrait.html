@@ -1,0 +1,8 @@
+<ul class="portraits">
+  {% for foto in site.data.fotos_portrait %}
+    <li>
+      <img src="{{ site.baseurl }}assets/images/gallery/{{ foto.filename }}" />
+      <p>{{ foto.caption }}  <em>&copy;{{ foto.photographer }}</em></p>
+    </li>
+  {% endfor %}
+</ul>
