@@ -3,8 +3,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <meta charset="utf-8">
-  {% stylesheet styles %}
-  <script type="text/javascript">{% asset modernizr %}</script>
+  <link rel="stylesheet" href="{{ site.baseurl }}css/styles.css" >
+  <script type="text/javascript" src="{{ site.baseurl }}js/bootstrap.js"></script>
   <title>Diana Rojas - {{ page.title }}</title>
 </head>
 <body>
@@ -20,6 +20,5 @@
 <div id="footer" class="container">
   {% include footer.html %}
 </div>
-{% javascript app %}
 </body>
 </html>
