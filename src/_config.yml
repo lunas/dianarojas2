@@ -1,6 +1,6 @@
 source: .
 destination: ../_site
-exclude: [less, font, coffee, Gemfile, Gemfile.lock]
+exclude: [less, font, coffee, Gemfile, Gemfile.lock,  node_modules, bower_components, Gruntfile.js, package.json, bower.json]
 encoding: 'UTF-8'
 #baseurl: http://www.dianarojas.net/neu/
 excerpt_separator: "###"
