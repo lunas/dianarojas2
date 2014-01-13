@@ -3,4 +3,7 @@ _site
 .vagrant
 src/.bundle
 .DS_Store
+assets/js
+assets/css
+
 
