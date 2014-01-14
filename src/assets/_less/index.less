@@ -2,12 +2,21 @@
   .make-row();
 }
 #front_image_wrapper {
-  background: url("../images/front/bg1.jpg") no-repeat scroll center center / cover  transparent;
-  margin-top: -10px;
-  padding-top: 20px;
+  background: url("../images/front/bg-1.jpg") no-repeat scroll center center / cover  transparent;
   text-align: center;
   width: 100%;
   height: 100%;
+
+  #front_image {
+    background: url("../images/front/bg-2.jpg") no-repeat scroll center center / cover  transparent;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+
+    .container {
+      z-index: 10;
+    }
+  }
 
   h1 {
     margin-top: 120px;
@@ -20,7 +29,4 @@
       color: white;
     }
   }
-}
-#preload.index {
-  display: none;
 }

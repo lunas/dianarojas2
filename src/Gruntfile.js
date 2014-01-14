@@ -18,6 +18,11 @@ module.exports = function(grunt) {
           'assets/js/jquery.min.js': 'bower_components/jquery/jquery.js'
         }
       },
+      jquery_ui: {
+        files: {
+          'assets/js/jquery-ui.min.js': ['bower_components/jquery-ui/ui/jquery.ui.effect*.js']
+        }
+      },
       bootstrap: {
         files: {
           'assets/js/bootstrap.min.js': [
