@@ -11,10 +11,13 @@ title: Audio
     {% for sample in site.data.sound_samples %}
       <div>
         <label>{{ sample.label }}</label>
-        <span class="audio-player">play {{ sample.file }}</span>
+        <span class="audio-player"></span>
+        <audio src="{{ site.baseurl}}assets/sounds/{{ sample.file }}" controls preload="auto">
+          <p>Ihr Browser unterstuetzt Audio nicht.</p>
+        </audio>
       </div>
     {% endfor %}
-    <div>
+    <div class="bodalgo">
       <a href="http://www.bodalgo.com/de/voices/diana-rojas/" target="_blank">
         Mein Profil bei bodalgo
        </a>

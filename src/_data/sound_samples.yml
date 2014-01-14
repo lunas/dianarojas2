@@ -20,13 +20,13 @@
   file: dr_01.mp3
 
 - label: Deutsch -- Kindergeschichte
-  file: deutsch-kindergeschichte.mp3
+  file: deutsch_kindergeschichte.mp3
 
 - label: CH-Deutsch -- Neutral
   file: dr_05_new.mp3
 
-- label: Französische -- Souvenirs
-  file: franz-souvenir.mp3
+- label: Französisch -- Souvenirs
+  file: franz_souvenir.mp3
 
 - label: Englisch -- Motivation Voice
-  file: english-motivation-voice.mp3
+  file: english_motivation_voice.mp3
