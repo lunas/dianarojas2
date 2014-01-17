@@ -12,13 +12,17 @@
 
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav">
-      <li><a href="{{ site.baseurl }}video.html">video</a></li>
-      <li><a href="{{ site.baseurl }}audio.html">audio</a></li>
-      <li><a href="{{ site.baseurl }}fotos.html#">fotos</a></li>
-      <li><a href="{{ site.baseurl }}vita.html">vita</a></li>
-      <li><a href="{{ site.baseurl }}presse.html">presse</a></li>
-      <li><a href="{{ site.baseurl }}links.html">links</a></li>
-      <li><a href="{{ site.baseurl }}kontakt.html">kontakt</a></li>
+      {% for link in site.navigation %}
+        {% if page.url contains link.url %}
+        {% assign active = 'active' %}
+        {% else %}
+        {% assign active = nil %}
+        {% endif %}
+        <li class="{{ active}}">
+          <a href="{{ site.base_url }}{{ link.url }}">{{ link.title }}</a>
+        </li>
+      {% endfor %}
     </ul>
   </div>
 </nav>
+

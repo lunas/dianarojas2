@@ -4,3 +4,19 @@ exclude: [less, font, coffee, Gemfile, Gemfile.lock,  node_modules, bower_compon
 encoding: 'UTF-8'
 #baseurl: http://www.dianarojas.net/neu/
 excerpt_separator: "###"
+
+navigation:
+ - title: video
+   url: video.html
+ - title: audio
+   url: audio.html
+ - title: fotos
+   url: fotos.html
+ - title: vita
+   url: vita.html
+ - title: presse
+   url: presse.html
+ - title: links
+   url: links.html
+ - title: kontakt
+   url: kontakt.html
