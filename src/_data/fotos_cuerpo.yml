@@ -1,11 +1,14 @@
-- filename: portrait1.jpg
-  photographer: Luca Bricciotti
-  caption: First portrait
+- filename: cuerpos/cuerpo_00.jpg
+  photographer: T+T Fotografie
 
-- filename: portrait2.jpg
-  photographer: Luca Bricciotti
-  caption: First portrait
+- filename: cuerpos/cuerpo_01.jpg
+  photographer: Ayse Yavas
 
-- filename: portrait3.jpg
+- filename: cuerpos/cuerpo_02.jpg
   photographer: Luca Bricciotti
-  caption: First portrait
+
+- filename: cuerpos/cuerpo_03.jpg
+  photographer: T+T Fotografie
+
+- filename: cuerpos/cuerpo_04.jpg
+  photographer: T+T Fotografie

@@ -1,8 +1,13 @@
 <ul class="portraits list-inline">
+  {% assign image_path = 'assets/images/gallery/' | prepend: {{ site.baseurl }} %}
   {% for foto in fotos %}
     <li>
-      <img src="{{ site.baseurl }}assets/images/gallery/{{ foto.filename }}" />
-      <p>{{ foto.caption }}  <em>&copy;{{ foto.photographer }}</em></p>
+      {% assign parts = foto.filename | split: '_' %}
+      <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank">
+        <img src="{{ image_path}}{{ foto.filename }}" />
+      </a>
+      <p>{{ foto.caption }}
+        {% if foto.photographer %} <em>&copy;{{ foto.photographer }}</em> {% endif %} </p>
     </li>
   {% endfor %}
 </ul>

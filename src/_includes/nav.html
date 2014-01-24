@@ -14,9 +14,9 @@
     <ul class="nav navbar-nav">
       {% for link in site.navigation %}
         {% if page.url contains link.url %}
-        {% assign active = 'active' %}
+          {% assign active = 'active' %}
         {% else %}
-        {% assign active = nil %}
+          {% assign active = nil %}
         {% endif %}
         <li class="{{ active}}">
           <a href="{{ site.base_url }}{{ link.url }}">{{ link.title }}</a>
