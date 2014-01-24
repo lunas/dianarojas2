@@ -1,6 +1,9 @@
 - label: Willkommen -- Buenvenidos
   file: dr_00_new.mp3
 
+- label: Spanisch -- VPS Demo
+  file: diana_rojas_vps_demo.mp3
+
 - label: Spanisch -- Kindergeschichte
   file: dr_02_1.mp3
 
@@ -12,9 +15,6 @@
 
 - label: Spanisch -- Telefonansage
   file: dr_08_new.mp3
-
-- label: Spanisch -- VPS Werbung
-  file: diana_rojas_vps_demo.mp3
 
 - label: Deutsch -- Werbung
   file: dr_01.mp3
