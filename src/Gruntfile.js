@@ -4,7 +4,8 @@ module.exports = function(grunt) {
     less: {
       production: {
         options: {
-          paths: ["bower_components/bootstrap/less"],
+          paths: ["bower_components/bootstrap/less",
+                  "bower_components/swipebox/source/"],
           yuicompress: true
         },
         files: {
@@ -40,6 +41,11 @@ module.exports = function(grunt) {
             'bower_components/bootstrap/js/transition.js'
           ]
         }
+      },
+      swipebox: {
+        files: {
+          'assets/js/jquery.swipebox.min.js': 'bower_components/swipebox/source/jquery.swipebox.js'
+        }
       }
     },
     copy: {
@@ -47,6 +53,12 @@ module.exports = function(grunt) {
         nonull: true,
         files: [
           {expand: true, cwd: 'bower_components/bootstrap/dist/fonts/', src: ['**'], dest: 'assets/fonts/'}
+        ]
+      },
+      swipebox: {
+        nonull: true,
+        files: [
+          {expand: true, cwd: 'bower_components/swipebox/source/img/', src: '**', dest: 'assets/css/img/'}
         ]
       }
     },

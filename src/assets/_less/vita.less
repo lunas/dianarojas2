@@ -1,5 +1,9 @@
 .vita.row {
   .left {
+    .download_vita {
+      display: block;
+      margin-bottom: 1.5em;
+    }
     table {
       th {
         padding-right: 10px;
@@ -21,6 +25,9 @@
 
     .theater table .larger {
       width: 160px;
+      @media(max-width: @screen-xs-max) {
+        width: 60px;
+      }
     }
     a.link-top {
       margin-top: 10px;

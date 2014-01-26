@@ -3,7 +3,8 @@
   {% for foto in fotos %}
     <li>
       {% assign parts = foto.filename | split: '_' %}
-      <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank">
+      <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank"
+          class="swipebox" title="{{ foto.caption }}">
         <img src="{{ image_path}}{{ foto.filename }}" />
       </a>
       <p>{{ foto.caption }}
