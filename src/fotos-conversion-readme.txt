@@ -8,3 +8,8 @@ convert *.jpg  +clone -quality 95 -write portrait_big_%02d.jpg +delete  -resize 
 sometimes the width is 150 instead of the height. With those files, do:
 
 convert portrait_07.jpg -resize x150 portrait_07x.jpg
+
+>> better to use Photoshop, since this here doesn't really work!
+
+
+convert *.jpg  -quality 60 portrait_big_%02d.jpg
