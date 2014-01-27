@@ -1,3 +1,11 @@
+- year: 2014
+  title: Fariboles
+  type: Kurzfilm
+  role: Frau
+  director: Adrian Perez
+  company: Luxs
+  city: Bern
+
 - year: 2013
   title: Das Leben B
   type: Kino
@@ -9,7 +17,7 @@
 - year: 2013
   title: Simone
   type: Kurzfilm
-  role: Xenia
+  role: Viktoria
   director: Rebecca Panian
   company: ZHDK
   city: Zürich
