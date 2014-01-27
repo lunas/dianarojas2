@@ -4,4 +4,4 @@ tags: ['presse']
 ---
 
 Zweisprachig, multimedial, multikulturell, Poetisch und überraschend, kurz: einzartig ist das Kindertheater „Y tu? Wer bisch du?" des Zürcher Theaters...
-_Fachredaktionstipp_, Leporello, 20. April 07 "Artikel":http://mandarina.ch/presse.html
+_Fachredaktionstipp_, Leporello, 20. April 07 "zum Artikel":http://mandarina.ch/presse.html

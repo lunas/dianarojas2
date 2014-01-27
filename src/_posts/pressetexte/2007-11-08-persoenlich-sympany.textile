@@ -5,4 +5,4 @@ tags: ['presse']
 
 "Dani Levy erstmals für Werbefilm eingespannt" und Diana Rojas spiel mit!
 
-Persönlich 8. November 2007 "PDF":../assets/docs/persoenlich-sympany.pdf
+Persönlich 8. November 2007 "zum Artikel":../assets/docs/persoenlich-sympany.pdf"

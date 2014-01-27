@@ -4,4 +4,4 @@ tags: ['presse']
 ---
 Das Papier wird zur Projektionsfläche für einen Videofilm mit Bildern aus Kolumbien, über welche Diana Rojas, zeichnet und dazu von ihrer Heimat erzählt. Geschickt mischen die beiden Schauspielerinnen Schauspiel, Video und Erzählung."
 
-Website Kulturnetz für Afrika, Asien und Lateinamerika, 24.März.07 "Artikel":http://mandarina.ch/presse.html
+Website Kulturnetz für Afrika, Asien und Lateinamerika, 24.März.07 "zum Artikel":http://mandarina.ch/presse.html

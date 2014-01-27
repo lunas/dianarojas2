@@ -12,7 +12,7 @@ title: bienvenidos
     {% for post in site.tags.news limit: 2 %}
       <div>
         <h4 class="list-group-item-heading">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ page.base_url }}{{ post.url }}">{{ post.title }}</a>
         </h4>
         <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
       </div>

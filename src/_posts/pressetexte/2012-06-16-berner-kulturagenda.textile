@@ -5,6 +5,6 @@ tags: ['presse']
 
 ..Doch wie es der Zufall will, versammelt sich just diesen Sommer ein bunt zusammengewürfeltes Grüppchen von Menschen in der verlassenen Ortschaft. Eine Nonne (Diana Rojas) wird in die Abgeschiedenheit der örtlichen Klosterruine verbannt.
 
-_Nelly Jaggi_, Berner Kultur Agenda "Link (PDF)":{{ site.base_url }}/assets/docs/berner-kulturagenda-das-mittelmeer-im-steinbruch.pdf
+_Nelly Jaggi_, Berner Kultur Agenda "Link "zum Artikel":{{ site.base_url }}/assets/docs/berner-kulturagenda-das-mittelmeer-im-steinbruch.pdf
 
 ###
