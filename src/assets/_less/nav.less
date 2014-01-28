@@ -1,0 +1,23 @@
+
+// overwriting rule in bootstrap's navbar.less
+.navbar-nav {
+  > li > a {
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
+// overwriting rule in bootstrap's navbar.less
+@media (max-width: @grid-float-breakpoint-max) {
+  // Dropdowns get custom display when collapsed
+  .open .dropdown-menu {
+    > li > a {
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+}
