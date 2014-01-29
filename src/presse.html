@@ -12,9 +12,9 @@ title: Presse
 <div class="presse row">
   <div class="left">
     {% for article in site.tags.presse %}
-    <div>
-      {{ article.excerpt | textilize }}
-    </div>
+      <blockquote>
+          {{ article.excerpt | textilize }}
+      </blockquote>
     {% endfor %}
   </div>
 </div>
