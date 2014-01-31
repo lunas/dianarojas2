@@ -11,10 +11,10 @@ title: bienvenidos
     <h3>Aktuell:</h3>
     {% for post in site.tags.news limit: 2 %}
       <div>
-        <h4 class="list-group-item-heading">
+        <h4 class="news">
           <a href="{{ page.base_url }}{{ post.url }}">{{ post.title }}</a>
         </h4>
-        <p class="list-group-item-text">{{ post.excerpt | textilize }}</p>
+        <p class="news">{{ post.excerpt | textilize }}</p>
       </div>
     {% endfor %}
   </div>
