@@ -3,13 +3,9 @@
   {% for foto in fotos %}
     <li>
       {% assign parts = foto.filename | split: '_' %}
-      {% if foto.photographer %}
-        {% assign caption = join: foto.caption, '<em>&copy;</em>', foto.photographer %}
-      {% else %}
-        {% assign caption = foto.caption %}
-      {% endif %}
+      {% assign caption = foto.caption | foto_caption: foto.photographer %}
       <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank"
-          class="swipebox" title="{{ foto.caption }}">
+          class="swipebox" title="{{ caption }}">
         <img src="{{ image_path}}{{ foto.filename }}" title="{{ caption }}" />
       </a>
       <p class="caption">{{ caption }}</p>

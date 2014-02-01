@@ -46,8 +46,8 @@ title: Fotos
   jQuery(function($) {
     $(".swipebox").swipebox({ hideBarsDelay : 0 /* always visible */ })
     $(".swipebox").hover(
-        function(){ $(this).parent().filter('.caption').show() },
-        function(){ $(this).parent().filter('.caption').hide() }
+        function(){ $(this).parent().find('.caption').show() },
+        function(){ $(this).parent().find('.caption').hide() }
       )
   });
 </script>
