@@ -6,7 +6,7 @@
       {% assign caption = foto.caption | foto_caption: foto.photographer %}
       <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank"
           class="swipebox" title="{{ caption }}">
-        <img src="{{ image_path}}{{ foto.filename }}" title="{{ caption }}" />
+        <img src="{{ image_path}}{{ foto.filename }}" />
       </a>
       <p class="caption">{{ caption }}</p>
     </li>
