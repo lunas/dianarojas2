@@ -13,5 +13,26 @@
 @container-large-desktop:      ((720px + @grid-gutter-width));
 
 //@font-family-base:                  "Courier New", Courier, monospace;
-@navbar-default-bg:                 #fff;
-@navbar-default-link-hover-color:   #000;
+
+@navbar-default-bg:                         #fff;
+
+@text-color:                                black;                    // @gray-dark
+
+@link-color:                                maroon;                   // @brand-primary;
+@link-hover-color:                          darken(@link-color, 25%); //darken(@link-color, 15%);
+
+// Navs
+@navbar-default-color:                      @text-color;              // #777;
+@navbar-default-link-color:                 @text-color;              // #777;
+@navbar-default-link-hover-color:           @link-hover-color;        // #333;
+@navbar-default-link-active-color:          @link-hover-color;        // #555;
+@navbar-default-brand-color:                @navbar-default-color;    // @navbar-default-link-color;
+@navbar-default-brand-hover-color:          darken(@navbar-default-brand-color, 10%); // darken(@navbar-default-brand-color, 10%);
+
+@nav-tabs-active-link-hover-color:          red; // @gray;
+@nav-tabs-active-link-hover-border-color:   green; //#ddd;
+
+// Pills
+@component-active-bg:                       @brand-primary;
+@nav-pills-active-link-hover-bg:            cyan; // @component-active-bg;
+@nav-pills-active-link-hover-color:         cyan; // @component-active-color;

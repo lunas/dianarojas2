@@ -9,10 +9,10 @@
       padding: 0.25em 40px;
       line-height: 1.5;
       position: relative;
-      color: #383838;
+      color: @text-color;
       border: 0;
     }
-    blockquote:before {
+    blockquote:before {   // big quotation start mark
       display: block;
       content: "\201C";
       font-size: 80px;
@@ -22,8 +22,11 @@
       top: -25px;
       color: #7a7a7a;
     }
+    blockquote p {
+      font-size: inherit;
+    }
     blockquote p:last-child {
-      color: #999999;
+      color: @text-color;
       font-size: 14px;
       display: block;
       margin-top: 5px;
