@@ -3,12 +3,12 @@
   {% for foto in fotos %}
     <li>
       {% assign parts = foto.filename | split: '_' %}
+      {% assign caption = foto.caption | foto_caption: foto.photographer %}
       <a href="{{ image_path }}{{ parts[0] }}_big_{{ parts[1] }}" target="_blank"
-          class="swipebox" title="{{ foto.caption }}">
-        <img src="{{ image_path}}{{ foto.filename }}" />
+          class="swipebox" title="{{ caption }}">
+        <img src="{{ image_path}}{{ foto.filename }}" title="{{ caption }}" />
       </a>
-      <p>{{ foto.caption }}
-        {% if foto.photographer %} <em>&copy;{{ foto.photographer }}</em> {% endif %} </p>
+      <p class="caption">{{ caption }}</p>
     </li>
   {% endfor %}
 </ul>

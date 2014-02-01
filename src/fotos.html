@@ -45,5 +45,9 @@ title: Fotos
 <script type="text/javascript">
   jQuery(function($) {
     $(".swipebox").swipebox({ hideBarsDelay : 0 /* always visible */ })
+    $(".swipebox").hover(
+        function(){ $(this).parent().find('.caption').show() },
+        function(){ $(this).parent().find('.caption').hide() }
+      )
   });
 </script>
