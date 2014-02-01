@@ -15,7 +15,7 @@
 //@font-family-base:                  "Courier New", Courier, monospace;
 
 @navbar-default-bg:                         #fff;
-
+                                                                      // Bootstrap original color:
 @text-color:                                black;                    // @gray-dark
 
 @link-color:                                #847f25;                  // @brand-primary;
@@ -24,10 +24,10 @@
 // Navs
 @navbar-default-color:                      @text-color;              // #777;
 @navbar-default-link-color:                 @text-color;              // #777;
-@navbar-default-link-hover-color:           @link-hover-color;        // #333;
-@navbar-default-link-active-color:          @link-hover-color;        // #555;
+@navbar-default-link-hover-color:           @link-color;              // #333;
+@navbar-default-link-active-color:          @link-color;              // #555;
 @navbar-default-brand-color:                @navbar-default-color;    // @navbar-default-link-color;
-@navbar-default-brand-hover-color:          lighten(@navbar-default-brand-color, 20%); // darken(@navbar-default-brand-color, 10%);
+@navbar-default-brand-hover-color:          @link-color;              // darken(@navbar-default-brand-color, 10%);
 
 @nav-tabs-active-link-hover-color:          green; // @gray;
 @nav-tabs-active-link-hover-border-color:   green; //#ddd;
