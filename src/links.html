@@ -4,26 +4,34 @@ title: Links
 ---
 <div class="links row">
   <div class="left">
-    <p><a href="http://www.mandarina.ch" target="_blank">
-      www.mandarina.ch
-    </a></p>
-    <p><a href="http://www.theater.ch/dianarojasfeile" target="_blank">
-      www.theater.ch/dianarojasfeile
-    </a></p>
-    <p><a href="http://schauspieler.ch/profil/diana-rojas-feile" target="_blank">
-      schauspieler.ch/profil/diana-rojas-feile
-    </a></p>
-    <p><a href="http://www.daniel-hellmann.com" target="_blank">
-      www.daniel-hellmann.com
-    </a></p>
-    <p><a href="http://www.dichterstauffer.ch" target="_blank">
-      www.dichterstauffer.ch
-    </a></p>
-    <p><a href="http://www.goldproduktionen.ch" target="_blank">
-      www.goldproduktionen.ch
-    </a></p>
-    <p><a href="http://janaburbach.com" target="_blank">
-      janaburbach.com
-    </a></p>
+
+    <h3>Noch mehr Infos &uuml;ber mich</h3>
+
+    <div class="link_list">
+      {% assign links = site.data.links_diana %}
+      {% include link_list.html %}
+    </div>
+
+    <h3>Amigos</h3>
+
+    <div class="link_list">
+      {% assign links = site.data.links_amigos %}
+      {% include link_list.html %}
+    </div>
+
+    <h3>Fotografen</h3>
+
+    <div class="link_list">
+      {% assign links = site.data.links_fotografen %}
+      {% include link_list.html %}
+    </div>
+
+    <h3>Wo ich ab und zu spiele</h3>
+
+    <div class="link_list">
+      {% assign links = site.data.links_spielorte %}
+      {% include link_list.html %}
+    </div>
+
   </div>
 </div>

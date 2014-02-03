@@ -1,0 +1,10 @@
+<ul>
+  {% for link in links %}
+      <li>
+        <a href="http://{{ link.url }}" target="_blank">
+          {{ link.url}}
+        </a>
+      </li>
+  {% endfor %}
+</ul>
+
