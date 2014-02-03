@@ -3,4 +3,11 @@ h1 {
     color: black;
     text-decoration: none;
   }
+  .page-title {
+    display: none;
+
+    @media(max-width: @grid-float-breakpoint) {
+      display: inline;
+    }
+  }
 }
