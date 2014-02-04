@@ -3,7 +3,9 @@ _site
 .vagrant
 src/.bundle
 .DS_Store
-src/assets/js
-src/assets/css
 unterlagen
+src/assets/css
+src/assets/js/bootstrap.min.js
+src/assets/js/jquery*
+
 
