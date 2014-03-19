@@ -1,11 +1,11 @@
 ---
 layout: posts
 tags: ['news']
-title: 0%
+title: Premiere des Hörspiels „+-0%“ über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Mitmenschen
 excerpt: >
          ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
-         *Premiere:*
+         *"Premiere":http://www.rotefabrik.ch/de/konzept/eventdetail.php?id=19453:*
          am 15. April um 20 Uhr im Clubraum der Roten Fabrik
 
          Konzept und Regie: Diana Rojas,
@@ -17,9 +17,37 @@ h1. {{ page.title }}
 
 ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
-*Premiere:*
+
+*Premiere:* !(news-image)/assets/images/0prozent.jpg!
 am 15. April um 20 Uhr im Clubraum der Roten Fabrik
 
-Konzept und Regie: Diana Rojas,
-Musik: Michael Sauter,
-Mentalcouching: Michael Stauffer
+Menschen, die nicht Wachsen wollen, voll glücklich sind und keine Bedürfnisse haben, können
+zu Hause bleiben!
+
+Wachstum gilt als logisches kulturelles Muster. Es wird fast immer positiv wahrgenommen und
+bewertet und als vorgegebene Wirklichkeit und als Schlüssel zum Glück gesehen.
+
+Die Mitwirkenden denken im Hörspiel „+-0%“ laut über dieses Thema nach:
+
+* Warum wollen die Menschen immer mehr haben und immer besser sein?
+* Ist dieser Wachstumsrausch eine metaphysische Vorstellung von Unendlichkeit?
+* Sind wir mit unserem System in eine Sackgasse geraten?
+* Was für Sehnsüchte verbergen sich dahinter?
+* Sind diese Sehnsüchte und der damit verbundene Wunsch nach Glückseligkeit durch Wachstum kein
+Trugbild?
+
+Die Vorstellung von Glück ist ein philosophisches Konzept: Glücklich zu sein, ist das höchste
+ und vordringlichste Ziel des Menschen. Eigentlich sollte der Kapitalismus den Menschen ein
+ gutes Leben ermöglichen. Haben wir uns inzwischen an diesem „Allheilmittel“ ein wenig
+ verschluckt?
+
+*MITWIRKENDE:*
+Der 22-jährige Bodybuilder Simon Nehmer, die 97-jährige Mathilde Schwender, der
+Sozialpsychologe Professor Dr. Harald Walzer, der Avenir Suisse Ökonom Dr. Marco Salvi, die
+Schönheitschirurgin Dr. Cynthia Wolfensberger, der Künstler Felix Brenner und der Philosoph
+Dr. Jens Badura.
+
+Regie/Konzept/Text: *Diana Rojas*
+Musik/Schnitt: *Michael Sauter*
+SprecherIn: *Fabienne Hadorn und Kaspar Weiss*
+ISO Zertifizierung ISO 14001: *Michael Stauffer*

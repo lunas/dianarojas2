@@ -1,0 +1,20 @@
+---
+layout: posts
+tags: ['news']
+title: Lecture "Voyage poétique autour de la méditerrannée“
+excerpt: Lecture "Voyage poétique autour de la méditerrannée“ mit Diana Rojas, Assaad Bouab und Jérémie Sonntag, Sima Dakkus (Regie).
+
+         Im Rahmen von "Les Rencontres Orient Occident du Château Mercier":http://www.chateaumercier.ch/fondation/sierre/centre-culturel/rencontres-orient-occident-chateau-mercier-1.html
+
+         am 6. Juni um 20 Uhr
+
+         im Château Mercier im Sierre - CH
+---
+
+h1. {{ page.title }}
+
+Lecture "Voyage poétique autour de la méditerrannée“ mit Diana Rojas, Assaad Bouab und Jérémie Sonntag.
+Regie: Sima Dakkus
+Im Rahmen von "Les Rencontres Orient Occident du Château Mercier":http://www.chateaumercier.ch/fondation/sierre/centre-culturel/rencontres-orient-occident-chateau-mercier-1.html
+am 6. Juni um 20 Uhr
+im Château Mercier im Sierre - CH
