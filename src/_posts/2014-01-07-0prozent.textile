@@ -1,8 +1,10 @@
 ---
 layout: posts
 tags: ['news']
-title: Premiere des Hörspiels „+-0%“ über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Mitmenschen
+title: Premiere des Hörspiels „+-0%“
 excerpt: >
+         über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Menschenkollegen
+
          ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
          *"Premiere":http://www.rotefabrik.ch/de/konzept/eventdetail.php?id=19453:*
@@ -14,6 +16,8 @@ excerpt: >
 ---
 
 h1. {{ page.title }}
+
+h2. über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Menschenkollegen
 
 ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
@@ -50,4 +54,4 @@ Dr. Jens Badura.
 Regie/Konzept/Text: *Diana Rojas*
 Musik/Schnitt: *Michael Sauter*
 SprecherIn: *Fabienne Hadorn und Kaspar Weiss*
-ISO Zertifizierung ISO 14001: *Michael Stauffer*
+Zertifizierung nach ISO 14001: *Michael Stauffer*
