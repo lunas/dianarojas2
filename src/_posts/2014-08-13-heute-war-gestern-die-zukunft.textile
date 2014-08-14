@@ -1,0 +1,14 @@
+---
+layout: posts
+title: Workshop - "Heute war gestern die Zukunft"
+tags: ['news']
+excerpt: mit Diana Rojas-Feile und Jana Burbach
+
+         <a href="http://www.dritter-fruehling.ch/workshop-heute-war-gestern-die-zukunft" target="_blank">zum Workshop</a>
+---
+
+h1. {{ page.title }}
+
+mit Diana Rojas-Feile und Jana Burbach
+
+<a href="http://www.dritter-fruehling.ch/workshop-„heute-war-gestern-die-zukunft“/" target="_blank">zum Workshop</a>
