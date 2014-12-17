@@ -1,15 +1,6 @@
 - label: Nationalität
   value: Kolumbianerin & Schweizerin
 
-- label: Körpergrösse
-  value: 1.68m
-
-- label: Augenfarbe
-  value: braun
-
-- label: Singen
-  value: Sopran
-
 - label: Muttersprache
   value: Spanisch
 
@@ -17,7 +8,7 @@
   value: Deutsch, Französisch und Englisch (sehr gut), Italienisch (Grundkenntnisse)
 
 - label: Mitglied
-  value: SSFV, ACT, VPS, SSA, ASTEJ
+  value: SSFV, ACT, VPS, SSA, ASSITEJ
 
 - label: Sport
   value: Fechten, Schwimmen, Klettern

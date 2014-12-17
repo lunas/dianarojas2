@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Vita
-description: Lebenslauf (CV) von Diana Rojas, inklusive Ausbildung, Theater, Film, Foto, Engagements als Sprecherin
+description: Lebenslauf (CV) von Diana Rojas-Feile, inklusive Ausbildung, Theater, Film, Foto, Engagements als Sprecherin
 ---
 
 <div class="vita row">
   <div class="left">
-    <img src="{{ site.baseurl }}assets/images/luca_briciotti_dianarojas_portrait3.jpg"
+    <img src="{{ site.baseurl }}assets/images/luca_briciotti_dianarojas_portrait5.jpg"
          class="page-main-image"/>
   </div>
 </div>
@@ -52,7 +52,8 @@ description: Lebenslauf (CV) von Diana Rojas, inklusive Ausbildung, Theater, Fil
         {% for school in site.data.vita_ausbildung %}
           <tr>
             <td class="large">{{ school.year }} </td>
-            <td>{{ school.name }}, {{ school.school }}, {{ school.city }} </td>
+            <td>{{ school.name }}<br/>
+                {{ school.school }}, {{ school.city }} </td>
           </tr>
         {% endfor %}
         </table>
@@ -121,6 +122,20 @@ description: Lebenslauf (CV) von Diana Rojas, inklusive Ausbildung, Theater, Fil
       <div class="performance">
         <h4 id="performance">Engagements in Performances und Kunstprojekten</h4>
         {% textile performances.textile %}
+      </div>
+      <a class="link-top" href="#top">nach oben</a>
+
+      <div class="auszeichnungen">
+        <h4 id="auszeichnungen">Auszeichnungen</h4>
+        <table>
+          {% for gagi in site.data.vita_auszeichnungen %}
+          <tr>
+            <td>{{ gagi.year }}</td>
+            <td>{{ gagi.text }}<br/>
+                {{ gagi.location }}</td>
+          </tr>
+          {% endfor %}
+        </table>
       </div>
       <a class="link-top" href="#top">nach oben</a>
 

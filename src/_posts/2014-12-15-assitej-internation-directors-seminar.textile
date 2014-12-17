@@ -1,0 +1,16 @@
+---
+layout: posts
+tags: ['news']
+title: Einladung zum International Directors' Seminar in Mannheim
+excerpt: Ich wurde für das
+         <a href="http://www.schnawwl.de" target="_blank">
+             ASSITEJ - International Directors' Seminar</a>
+         vom  6. bis 11. Juli  2015 am National Theater Mannheim ausgewählt!
+
+---
+
+h1. {{ page.title }}
+
+Ich wurde für das <a href="http://www.schnawwl.de" target="_blank">
+    ASSITEJ - International Directors' Seminar</a>
+vom  6. bis 11. Juli  2015 am National Theater Mannheim ausgewählt.

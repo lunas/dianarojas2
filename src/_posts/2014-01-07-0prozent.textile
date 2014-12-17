@@ -2,17 +2,11 @@
 layout: posts
 tags: ['news']
 title: Premiere des Hörspiels „+-0%“
-excerpt: >
-         über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Menschenkollegen
+excerpt: Hör mal! Mein Doku-Hörspiel "+-0%" wird
 
-         ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
+         am Sonntag 4. Januar um 15 Uhr auf <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">SFR2 Kultur</a> und
 
-         *"Premiere":http://www.rotefabrik.ch/de/konzept/eventdetail.php?id=19453:*
-         am 15. April um 20 Uhr im Clubraum der Roten Fabrik
-
-         Konzept und Regie: Diana Rojas,
-         Musik: Michael Sauter,
-         Mentalcouching: Michael Stauffer
+         am 13. Februar 2015 um 20:30 beim <a href="http://www.sonohr.ch/programm/15-uebersicht_KK.html" target="_blank">sonOhr Festival im Kunst Museum Bern</a> ausgestrahlt.
 ---
 
 h1. {{ page.title }}
@@ -21,9 +15,18 @@ h2. über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen 
 
 ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
+Ausgestrahlt am
 
-*Premiere:* !(news-image)/assets/images/0prozent.jpg!
-am 15. April um 20 Uhr im Clubraum der Roten Fabrik
+* Sonntag, 4. Januar 2015
+  <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">
+  um 15 Uhr auf SRF 2 Kultur</a>!
+
+* Freitag, 3. Februar 2015 um 20:30 Uhr am
+  <a href="http://www.sonohr.ch/programm/15-uebersicht_KK.html" target="_blank">
+  sonOhr Festival im Museum für Kommunikation</a>
+
+Premiere: !(news-image)/assets/images/0prozent.jpg!
+am 15. April 2014 um 20 Uhr im Clubraum der Roten Fabrik
 
 Menschen, die nicht Wachsen wollen, voll glücklich sind und keine Bedürfnisse haben, können
 zu Hause bleiben!

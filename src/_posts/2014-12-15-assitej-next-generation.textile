@@ -1,0 +1,15 @@
+---
+layout: posts
+tags: ['news']
+title: Augenblick mal! Next Generation in Berlin
+excerpt: Ich bin zum zweiten Mal an das Programm Next Generation vom ASSITEJ vom 21. bis 26. April 2015 eingeladen worden.
+         Dieses mal im Rahmen von <a href="http://www.augenblickmal.de/" target="_blank">Augenblick mal!</a> am Theater Parkaue in Berlin.
+
+---
+
+h1. {{ page.title }}
+
+Ich bin zum zweiten Mal an das Programm Next Generation vom ASSITEJ
+vom 21. bis 26. April 2015 eingeladen worden. Dieses mal im Rahmen von
+**<a href="http://www.augenblickmal.de/" target="_blank">Augenblick mal!</a>
+am Theater Parkaue in Berlin**.

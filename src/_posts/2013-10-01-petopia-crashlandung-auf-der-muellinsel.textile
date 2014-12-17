@@ -11,7 +11,8 @@ excerpt: Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube A
 
 h1. {{ page.title }}
 
-Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
+Eine Koproduktion mit dem Theater <a href="http://www.theater-stadelhofen.ch" target="_blank">
+Stadelholfen Zürich</a>, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
 
 Wieder gespielt ab dem 17. Februar 2014
 in verschiedenen Spielorten in der Schweiz!
