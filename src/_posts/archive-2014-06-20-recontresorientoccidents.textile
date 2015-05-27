@@ -16,5 +16,5 @@ h1. {{ page.title }}
 Lecture Performance mit Diana Rojas, Assaad Bouab und Jérémie Sonntag.
 Regie: Sima Dakkus
 Im Rahmen von "Les Rencontres Orient Occident du Château Mercier":http://www.chateaumercier.ch/fondation/sierre/centre-culturel/rencontres-orient-occident-chateau-mercier-1.html
-am 6. Juni um 20 Uhr
+am 6. Juni um 20 2014 Uhr
 im Château Mercier im Sierre - CH

@@ -1,12 +1,13 @@
 ---
 layout: posts
 tags: ['news']
-title: Hörspiel „+-0%“ auf SRF2 Kultur und am sonOhr-Festival
-excerpt: Hör mal! Mein Doku-Hörspiel "+-0%" wird
+title: Hörspiel „+-0%“ auf SRF2 Kultur
+excerpt: Hör mal! Mein Doku-Hörspiel "+-0%" wurde
+         auf SRF2 Kultur ausgestrahlt.
+         <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">hier nachhören</a>.
 
-         am Sonntag 4. Januar um 15 Uhr auf <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">SRF2 Kultur</a> und
+         <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:ais:audio:9fae6321-36e7-40eb-a543-c373204bc201" width="624" height="58" frameborder="0" name="+/- 0%  Versuch zu verstehen, wieso Menschen besser sein wollen"></iframe>
 
-         am 13. Februar 2015 um 20:30 beim <a href="http://www.sonohr.ch/programm/15-uebersicht_KK.html" target="_blank">sonOhr Festival im Kunst Museum Bern</a> ausgestrahlt.
 ---
 
 h1. {{ page.title }}
@@ -15,16 +16,18 @@ h2. über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen 
 
 ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
-Ausgestrahlt am
+<iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:ais:audio:9fae6321-36e7-40eb-a543-c373204bc201" width="624" height="58" frameborder="0" name="+/- 0%  Versuch zu verstehen, wieso Menschen besser sein wollen"></iframe>
 
-* Sonntag, 4. Januar 2015 <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">
-  um 15 Uhr auf SRF2 Kultur</a>!
+Ausgestrahlt
 
-* Freitag, 3. Februar 2015 um 20:30 Uhr am <a href="http://www.sonohr.ch/programm/15-uebersicht_KK.html" target="_blank">
+* auf SRF2 Kultur. <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">
+ hier nachhören</a>!
+
+* am <a href="http://www.sonohr.ch/programm/15-uebersicht_KK.html" target="_blank">
   sonOhr Festival im Kunst Museum Bern</a>
 
 Premiere: !(news-image)/assets/images/0prozent.jpg!
-am 15. April 2014 um 20 Uhr im Clubraum der Roten Fabrik
+war am 15. April 2014 im Clubraum der Roten Fabrik
 
 Menschen, die nicht Wachsen wollen, voll glücklich sind und keine Bedürfnisse haben, können
 zu Hause bleiben!

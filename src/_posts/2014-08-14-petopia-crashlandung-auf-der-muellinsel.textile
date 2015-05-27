@@ -15,6 +15,6 @@ h1. {{ page.title }}
 
 Eine Koproduktion mit dem Theater Stadelholfen Zürich, der Tuchlaube Aarau und dem Schlachthaus Theater Bern.
 Wieder gespielt ab dem 2. März 2015
-im <a href="http://www.theater-stadelhofen.ch/spielplaene/spielplan2013_2014/hel_2013_2014_petopia.html" target="_blank">Theater Stadelhofen, Zürich</a>!
+im <a href="http://www.theater-stadelhofen.ch/spielplaene/spielplan2014_2015/hel_2014_2015_petopia.html" target="_blank">Theater Stadelhofen, Zürich</a>!
 
 <a href="http://www.mandarina.ch/daten.html" target="_blank">Spieldaten</a>

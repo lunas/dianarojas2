@@ -1,0 +1,13 @@
+---
+layout: posts
+tags: ['news']
+title: Jurymitglied beim 8. Secondo-Theaterfestival
+excerpt: Ich bin Jurymitglied am <a href="http://www.secondofestival.ch" target="blank">8. Secondo-Theaterfestival</a>
+         vom 11. bis 15. März im Theater Tuchlaube Aarau
+---
+
+h1. {{ page.title }}
+
+Ich bin Jurymitglied am <a href="http://www.secondofestival.ch" target="blank">
+8. Secondo-Theaterfestival</a> vom 11. bis 15. März im <a href="http://www.tuchlaube.ch/" target="blank">
+Theater Tuchlaube Aarau</a>.

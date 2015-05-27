@@ -21,6 +21,7 @@ description: Lebenslauf (CV) von Diana Rojas-Feile, inklusive Ausbildung, Theate
         <li><a href="#sprechen">Sprechen</a></li>
         <li><a href="#performance">Perfomances & Kunstprojekte</a></li>
         <li><a href="#auszeichnungen">Auszeichnungen</a></li>
+        <li><a href="#auszeichnungen">Sonstiges</a></li>
       </ul>
     </div>
 
@@ -39,9 +40,6 @@ description: Lebenslauf (CV) von Diana Rojas-Feile, inklusive Ausbildung, Theate
       <div class="cv-link">
         <a href="assets/docs/diana_rojas_vita.pdf" target="_blank">
           Lebenslauf (PDF)
-        </a>
-        <a href="http://www.theater.ch/a115483605/diana-rojas-feile-zuerich" target="_blank">
-          Kurze Bio
         </a>
       </div>
 
@@ -134,6 +132,19 @@ description: Lebenslauf (CV) von Diana Rojas-Feile, inklusive Ausbildung, Theate
             <td>{{ gagi.year }}</td>
             <td>{{ gagi.text }}<br/>
                 {{ gagi.location }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+      <a class="link-top" href="#top">nach oben</a>
+
+      <div class="sonstiges">
+        <h4 id="sonstiges">Sonstiges</h4>
+        <table>
+          {% for sonst in site.data.vita_sonstiges %}
+          <tr>
+            <td>{{ sonst.year }}</td>
+            <td>{{ sonst.text }}</td>
           </tr>
           {% endfor %}
         </table>
