@@ -4,7 +4,7 @@ tags: ['news']
 title: 3---times/The Future
 excerpt: <b>Übers Kind-Sein und Erwachsen-Werden.</b>
 
-         <a href="http://schaexpir.at/programm/theaterdetail.html?L=0&uid=917)" target="_blank">
+         <a href="http://schaexpir.at/programm/theaterdetail.html?L=0&uid=917" target="_blank">
          Premiere</a> am 29. Juni 2015 um 18 Uhr am internationalen Theaterfestival Schäxpir in
          Linz - Österreich!
 
@@ -17,7 +17,7 @@ h1. {{ page.title }}
 Ein internationales Theaterprojekt in Koproduktion mit dem Theater Stadelhofen Zürich,
 dem internationales Theaterfestival Schäxpir in Linz und Neimënster Luxemburg
 
-<a href="http://schaexpir.at/programm/theaterdetail.html?L=0&uid=917)" target="_blank">
+<a href="http://schaexpir.at/programm/theaterdetail.html?L=0&uid=917" target="_blank">
 Premiere</a> am 29. Juni 2015 um 18 Uhr am internationalen Theaterfestival Schäxpir in
 Linz - Österreich!
 
