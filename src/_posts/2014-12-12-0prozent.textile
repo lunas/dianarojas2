@@ -1,10 +1,9 @@
 ---
 layout: posts
 tags: ['news']
-title: Hör mal!
-excerpt: Ein Hörstück in Koproduktion mit <a href="www.artlink.ch" target="_blank">Artlink</a>
-
-         Premiere am 22. Juni 2016 in Bern!  (Infos coming soon!)
+title: Hörspiel „+-0%“ auf SRF2 Kultur
+excerpt: Mein Doku-Hörspiel "+-0%" wurde auf SRF2 Kultur ausgestrahlt.
+         <a href="http://www.srf.ch/sendungen/passage/0-versuch-zu-verstehen-wieso-menschen-besser-sein-wollen" target="_blank">hier nachhören</a>.
 
          <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:ais:audio:9fae6321-36e7-40eb-a543-c373204bc201" width="624" height="58" frameborder="0" name="+/- 0%  Versuch zu verstehen, wieso Menschen besser sein wollen"></iframe>
 
@@ -14,12 +13,9 @@ h1. {{ page.title }}
 
 h2. über den Versuch zu verstehen, wieso die Menschen immer besser sein wollen als ihre Menschenkollegen
 
-Ein Hörstück in Koproduktion mit <a href="www.artlink.ch" target="_blank">Artlink</a>
-
-Premiere am 22. Juni 2016 in Bern!  (Infos coming soon!)
+ein Radioprojekt mit dem Konzept Büro der Roten Fabrik Zürich
 
 <iframe src="//tp.srgssr.ch/p/srf/embed?urn=urn:srf:ais:audio:9fae6321-36e7-40eb-a543-c373204bc201" width="624" height="58" frameborder="0" name="+/- 0%  Versuch zu verstehen, wieso Menschen besser sein wollen"></iframe>
-
 
 Ausgestrahlt
 

@@ -1,0 +1,14 @@
+---
+layout: posts
+tags: ['news']
+title: Hör mal!
+excerpt: Ein Hörstück in Koproduktion mit <a href="http://www.artlink.ch" target="_blank">Artlink</a>.
+
+         Premiere am 22. Juni 2016 in Bern!  (Infos coming soon!)
+---
+
+h1. {{ page.title }}
+
+Ein Hörstück in Koproduktion mit <a href="http://www.artlink.ch" target="_blank">Artlink</a>.
+
+Premiere am 22. Juni 2016 in Bern!  (Infos coming soon!)

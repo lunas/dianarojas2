@@ -13,4 +13,4 @@ h1. {{ page.title }}
 Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
 Le Centre Culturel de Rencontre Abbaye de Neumünster</a>
 
-Première am 23. April 2016 in Luxemburg!
+Premiere am 23. April 2016 in Luxemburg!
