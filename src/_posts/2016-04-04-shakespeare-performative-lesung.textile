@@ -1,0 +1,47 @@
+---
+layout: posts
+tags: ['news']
+title: Shakespeare - Eine performative Lesung
+excerpt: _Aus der Reihe "Sommernachtstraum" von Shakespeare_
+
+         Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
+         Le Centre Culturel de Rencontre Abbaye de Neumünster</a>
+
+         Premiere am 24. April 2016 in Luxemburg!
+
+         <a href="https://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-10-00-00-am"
+            target="_blank">Details</a>
+---
+
+h1. {{ page.title }}
+
+_Aus der Reihe "Sommernachtstraum" von Shakespeare_
+
+Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
+Le Centre Culturel de Rencontre Abbaye de Neumünster</a>
+
+Premiere am 24. April 2016 in Luxemburg, um 15 Uhr<br/>
+Weitere Vorstellungen: 25. April um 10 Uhr und 14 Uhr
+
+<a href="https://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-10-00-00-am"
+  target="_blank">Details</a>
+
+William Shakespeare rockt! In einer seiner beliebtesten Komödien packt vor allem die Verwechslung.
+Im Wachtraum wird Phantasie mit Wirklichkeit gepaart. Diese Komödie ist das bekannteste Beispiel für
+ das Reich der Freiheit, wo das Unmögliche und Mögliche zusammentreffen. Ein grosser Wald, ein
+ falscher Zauber, verwirrte Elfen und verliebte Päarchen. Altbekannte Motive wie Konkurrenz, Zwang
+ und Eifersucht sind der Motor für manches Unglück. Gepackt mit Tempo, wirkungsvoller Soundkulisse
+ und Charme zeigt sich diese besondere Form von Lesung.
+
+*Regie/Konzept Diana:* Rojas-Feile
+
+*Schauspiel:* Tammy Reichling
+
+*Musik:* Victor Moser
+
+*Kostüme:* Sabina Winkler
+
+*<a href="http://www.heiya-productions.lu" target="_blank">hei ya</a>*
+
+<img src="/assets/images/shakespeare700.jpg" alt="Sommernachtstraum"/>
+Photo Copyright: Emmanuelle Florin
