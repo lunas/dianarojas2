@@ -9,7 +9,7 @@ excerpt: <b>Übers Kind-Sein und Erwachsen-Werden.</b>
          in Z&uuml;rich letztes Jahr&#58;
 
          Neue <a href="http://mandarina.ch/daten.html" target="_blank">Spieldaten</a> in Luxenburg
-         ab 28. April 2016 und Luzer ab 24. November 2016
+         ab 28. April 2016 und Luzern ab 24. November 2016
 ---
 
 h1. {{ page.title }}
@@ -24,7 +24,7 @@ am internationalen Theaterfestival Schäxpir in Linz - Österreich und den volle
 in Z&uuml;rich letztes Jahr&#58;
 
 Neue <a href="http://mandarina.ch/daten.html" target="_blank">Spieldaten</a> in Luxenburg
-ab 28. April 2016 und Luzer ab 24. November 2016
+ab 28. April 2016 und Luzern ab 24. November 2016
 
 *Regie/Stückentwicklung:* Diana Rojas-Feile
 

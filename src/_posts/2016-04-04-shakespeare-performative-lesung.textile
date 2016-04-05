@@ -1,30 +1,32 @@
 ---
 layout: posts
 tags: ['news']
-title: Shakespeare - Eine performative Lesung
-excerpt: _Aus der Reihe "Sommernachtstraum" von Shakespeare_
+title: Eine performative Lesung
+excerpt: _Aus der Reihe&#58; Ein Sommernachtstraum von William Shakespeare_
 
          Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
-         Le Centre Culturel de Rencontre Abbaye de Neumünster</a>
+         Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und
+         <a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
 
          Premiere am 24. April 2016 in Luxemburg!
 
-         <a href="https://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-10-00-00-am"
-            target="_blank">Details</a>
+         <a href="http://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-2-30-00-pm"
+            target="_blank">Zur Veranstaltung</a>
 ---
+
+_Aus der Reihe: Ein Sommernachtstraum von William Shakespeare_
 
 h1. {{ page.title }}
 
-_Aus der Reihe "Sommernachtstraum" von Shakespeare_
-
 Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
-Le Centre Culturel de Rencontre Abbaye de Neumünster</a>
+Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und
+<a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
 
 Premiere am 24. April 2016 in Luxemburg, um 15 Uhr<br/>
 Weitere Vorstellungen: 25. April um 10 Uhr und 14 Uhr
 
-<a href="https://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-10-00-00-am"
-  target="_blank">Details</a>
+<a href="http://www.neimenster.lu/Culture/Offre-diversifiee-Calendrier-shop-visites/Programmation/Scenes/Aus-der-Reihe-Ein-Sommernachtstraum-von-William-Shakespeare-Monday-25-April-2016-2-30-00-pm"
+   target="_blank">Zur Veranstaltung</a>
 
 William Shakespeare rockt! In einer seiner beliebtesten Komödien packt vor allem die Verwechslung.
 Im Wachtraum wird Phantasie mit Wirklichkeit gepaart. Diese Komödie ist das bekannteste Beispiel für
@@ -33,7 +35,7 @@ Im Wachtraum wird Phantasie mit Wirklichkeit gepaart. Diese Komödie ist das bek
  und Eifersucht sind der Motor für manches Unglück. Gepackt mit Tempo, wirkungsvoller Soundkulisse
  und Charme zeigt sich diese besondere Form von Lesung.
 
-*Regie/Konzept Diana:* Rojas-Feile
+*Regie/Konzept:* Diana Rojas-Feile
 
 *Schauspiel:* Tammy Reichling
 
@@ -41,7 +43,7 @@ Im Wachtraum wird Phantasie mit Wirklichkeit gepaart. Diese Komödie ist das bek
 
 *Kostüme:* Sabina Winkler
 
-*<a href="http://www.heiya-productions.lu" target="_blank">hei ya</a>*
+*<a href="http://www.heiya-productions.lu" target="_blank">hei!YA</a>*
 
 <img src="/assets/images/shakespeare700.jpg" alt="Sommernachtstraum"/>
 &copy;Emmanuelle Florin
