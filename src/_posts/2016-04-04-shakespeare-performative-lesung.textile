@@ -1,12 +1,11 @@
 ---
 layout: posts
 tags: ['news']
-title: Eine performative Lesung
-excerpt: _Aus der Reihe&#58; Ein Sommernachtstraum von William Shakespeare_
+title: Aus der Reihe&#58; Ein Sommernachtstraum von William Shakespeare
+excerpt: _Eine performative Lesung_
 
          Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
-         Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und
-         <a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
+         Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und <a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
 
          Premiere am 24. April 2016 in Luxemburg!
 
@@ -14,13 +13,12 @@ excerpt: _Aus der Reihe&#58; Ein Sommernachtstraum von William Shakespeare_
             target="_blank">Zur Veranstaltung</a>
 ---
 
-_Aus der Reihe: Ein Sommernachtstraum von William Shakespeare_
-
 h1. {{ page.title }}
 
+_Eine performative Lesung_
+
 Eine Koproduktion mit <a href="http://www.neimenster.lu" target="_blank">
-Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und
-<a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
+Le Centre Culturel de Rencontre Abbaye de Neumünster</a> und <a href="http://www.heiya-productions.lu" target="_blank">hei!YA Productions</a>
 
 Premiere am 24. April 2016 in Luxemburg, um 15 Uhr<br/>
 Weitere Vorstellungen: 25. April um 10 Uhr und 14 Uhr
@@ -30,10 +28,10 @@ Weitere Vorstellungen: 25. April um 10 Uhr und 14 Uhr
 
 William Shakespeare rockt! In einer seiner beliebtesten Komödien packt vor allem die Verwechslung.
 Im Wachtraum wird Phantasie mit Wirklichkeit gepaart. Diese Komödie ist das bekannteste Beispiel für
- das Reich der Freiheit, wo das Unmögliche und Mögliche zusammentreffen. Ein grosser Wald, ein
- falscher Zauber, verwirrte Elfen und verliebte Päarchen. Altbekannte Motive wie Konkurrenz, Zwang
- und Eifersucht sind der Motor für manches Unglück. Gepackt mit Tempo, wirkungsvoller Soundkulisse
- und Charme zeigt sich diese besondere Form von Lesung.
+das Reich der Freiheit, wo das Unmögliche und Mögliche zusammentreffen. Ein grosser Wald, ein falscher
+Zauber, verwirrte Elfen und verliebte Päarchen. Altbekannte Motive wie Konkurrenz, Zwang und Eifersucht
+sind der Motor für manches Unglück. Gepackt mit Tempo, wirkungsvoller Soundkulisse und Charme zeigt
+sich diese besondere Form von Lesung.
 
 *Regie/Konzept:* Diana Rojas-Feile
 
