@@ -1,3 +1,10 @@
+- year: 2016
+  title: Vor lauter Bäumen (Kino)
+  type:
+  role: Suzanna
+  director: Pablo Callisaya
+  company: Tapir Film Atelier
+
 - year: 2015
   title: Teufel
   type: Kurzfilm
@@ -29,14 +36,6 @@
   director: Adrian Perez
   company: Luxs
   city: Bern
-
-- year: 2013
-  title: Das Leben B
-  type: Kino
-  role: Suzanna
-  director: Pablo Callisaya
-  company: PC
-  city: Luzern
 
 - year: 2013
   title: Simone

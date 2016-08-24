@@ -1,0 +1,22 @@
+---
+layout: posts
+tags: ['news']
+title: Ein Performativer Audiospaziergang in Kreis 4&5 in Zürich.
+excerpt: Eine Koproduktion mit <a href="https://zurich.impacthub.ch/de/" target="_blank">
+         Impact Hub Zürich</a>, <a href="http://beamagency.strikingly.com" target="_blank">Beam</a>
+         und <a href="http://www.opsy.unisg.ch" target="_blank">HSG</a>.
+
+         Premiere am 28. September 2016 um 19Uhr in Zürich! Nicht verpassen!
+
+         <a href="http://www.arbeit45.co" target="_blank">Zur Veranstaltung</a>
+---
+
+h1. {{ page.title }}
+
+Eine Koproduktion mit <a href="https://zurich.impacthub.ch/de/" target="_blank">Impact Hub Zürich</a>,
+<a href="http://beamagency.strikingly.com" target="_blank">Beam</a> und
+<a href="http://www.opsy.unisg.ch" target="_blank">HSG</a>.
+
+Premiere am 28. September 2016 um 19Uhr in Zürich! Nicht verpassen!
+
+<a href="http://www.arbeit45.co" target="_blank">Zur Veranstaltung</a>
