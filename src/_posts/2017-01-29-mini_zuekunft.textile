@@ -1,0 +1,29 @@
+---
+layout: posts
+tags: ['news']
+title: Mini Zuekunft
+excerpt: Premiere am 17. Februar 2017 um 20.45 am 7. Sonohr Festival im Kino Rex Bern! Nicht verpassen!
+
+         <a href="http://www.sonohr.ch" target="_blank">Infos hier</a>
+
+         Feature von Diana Rojas-Feile, Musik von Michael Sauter, 2016, Mundart, 26 min
+
+         „Was ich sein will, wenn ich gross bin? Keine Ahnung. Was ich mir für die Zukunft wünsche?
+         Keine Ahnung. Was Zukunft für mich heisst? Doch, das weiss ich!“. In einer rasanten, vielstimmigen
+         Collage denken Neun- bis Zwölfjährige laut über ihre Zukunft nach. Mit ihren Szenarien und Visionen
+         portraitieren sie in scharfen Linien unsere Gegenwart.
+
+---
+
+h1. {{ page.title }}
+
+Premiere am 17. Februar 2017 um 20.45 am 7. Sonohr Festival im Kino Rex Bern! Nicht verpassen!
+
+<a href="http://www.sonohr.ch" target="_blank">Infos hier</a>
+
+Feature von Diana Rojas-Feile, Musik: Michael Sauter, 2016, Mundart, 26 min
+
+„Was ich sein will, wenn ich gross bin? Keine Ahnung. Was ich mir für die Zukunft wünsche?
+Keine Ahnung. Was Zukunft für mich heisst? Doch, das weiss ich!“. In einer rasanten, vielstimmigen
+Collage denken Neun- bis Zwölfjährige laut über ihre Zukunft nach. Mit ihren Szenarien und Visionen
+portraitieren sie in scharfen Linien unsere Gegenwart.

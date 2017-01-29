@@ -1,0 +1,24 @@
+---
+layout: posts
+tags: ['news']
+title: Ich dachte, wir sind alle Menschen
+excerpt: Ein Performatives Hörkunst Projekt
+
+         Eine Koproduktion mit dem <a href="http://www.stadtmuseum.ch/" target="_blank">
+         Stadtmuseum Aarau und Artlink</a>.
+
+         Premiere/Vernissage am 16. Juni 2017 um 19Uhr in Aarau! Nicht verpassen!
+
+         Infos...Coming soon!
+
+---
+
+h1. {{ page.title }}
+
+Ein Performatives Hörkunst Projekt
+
+Eine Koproduktion mit dem <a href="http://www.stadtmuseum.ch/" target="_blank"> Stadtmuseum Aarau und Artlink</a>.
+
+Premiere/Vernissage am 16. Juni 2017 um 19Uhr  in Aarau! Nicht verpassen!
+
+Infos Coming soon!
